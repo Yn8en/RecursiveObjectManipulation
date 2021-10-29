@@ -19,18 +19,15 @@
             "born": 2014,
             "hobby": "chocolate",
             "favoriteCuddlyToys": {
-                "Horsti": "bedlam-levels",
-                "BieneMaja": "sweet",
+                "Horsti": "bedlam-levels hippo",
                 "Teddy": "cute"
             },
             "likesGames": {
                 "monopoly": "very much",
-                "burgerKitchen": "very much",
                 "bowAndArrow": "kinda",
-                "merchantRoleplay": "kinda",
                 "cookieClicker": "very much"
             },
-            "likesMovies": {
+            "likesVideos": {
                 "AsterixObelix": "very much",
                 "MrBean": "very much",
                 "MyLittlePony": "very much"
