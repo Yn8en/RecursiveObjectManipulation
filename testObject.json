@@ -15,11 +15,11 @@
         }
     },
     "children": {
-        "Nova" : {
+        "Nova": {
             "born": 2014,
             "hobby": "chocolate",
-            "favouriteCuddlyToys": {
-                "Horsti": "bedlam levels",
+            "favoriteCuddlyToys": {
+                "Horsti": "bedlam-levels",
                 "BieneMaja": "sweet",
                 "Teddy": "cute"
             },
